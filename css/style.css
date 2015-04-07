@@ -1,0 +1,114 @@
+body{
+	background: #f2f2f2 !important;
+}
+
+.form-add{
+    width: 100%;
+    padding-top: 30px;
+    color: #fff;
+    height: 295px;
+    text-align: center;
+    background-image: url("../images/icon.png");
+    background-size: 600px 600px;
+    background-position: 0 60px;
+    background-repeat: no-repeat;
+    background-repeat: repeat;
+    background-color: #0F7A63;
+}
+
+.aling-form{
+	margin: 0 auto;
+  	width: 40%;
+  	padding-top: 100px;
+}
+
+.aling-form input{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 0;
+    border-radius: 4px 0 0 4px;
+    color: #7e7e7e;
+    font-size: 16px;
+    line-height: normal;
+    height: 25%;
+    padding: 20px 10px;
+    float: left;
+    -webkit-appearance: none;
+    width: 88%;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.aling-form button{
+    font-size: 18px;
+    background-color: #5cb85c;
+    border-left: 1px solid #4cae4c;
+    border: none;
+    margin-left: -7px;
+    padding: 20px;
+    width: 65px;
+    height: 25%;
+    border-radius: 0 4px 4px 0;
+}
+
+#list-torrents{
+	padding: 20px;
+}
+
+.ob-list{
+    background: #fff;
+    margin-bottom: 10px;
+    overflow: hidden;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.14);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.14);
+}
+
+.ob-list .title-ob{
+  margin-bottom: 10px;
+  padding: 10px;
+  border-bottom: 1px solid #F3F3F3;
+  overflow: hidden;
+}
+
+.ob-list .progress{
+	margin:10px;
+}
+
+.ob-list .title-ob .ob-delete{
+   float: right;
+   font-size: 13px;
+   color: #646464;
+   padding: 4px;
+}
+
+.torrent-status{
+    float: right;
+}
+
+.title-ob-a{
+  float: left;
+  color: #484848;
+}
+
+.title-ob-a:hover{
+  color: #484848;
+}
+
+.title-ob input{
+  border: none;
+  margin-left: 13px;
+  font-size: 14px;
+  outline: none;
+  color: #fff;
+}
+
+.title-ob .on{ 
+  background:#5cb85c; 
+  border-radius: 4px;
+}
+
+.title-ob .off{ 
+  background:#d9534f;
+  border-radius: 4px;
+}
