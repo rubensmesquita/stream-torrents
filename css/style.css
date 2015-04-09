@@ -112,3 +112,22 @@ body{
   background:#d9534f;
   border-radius: 4px;
 }
+
+.list-files{
+  padding: 3px 10px 0 10px;
+}
+
+.list-files ul .list-group-item a{
+  color: #484848;
+  font-size: 15px;
+  margin-left: 3px;
+}
+
+.list-files ul .list-group-item span{
+  color: #565656;
+  font-size: 16px;
+}
+
+.list-group-item{
+  border: 1px solid #F1F1F1 !important;
+}
