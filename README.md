@@ -4,7 +4,7 @@ Demostração do projeto http://cinepopcorn.cf/stream
 ## Dúvidas?
 signerproducoes@gmail.com  
 https://www.facebook.com/rubens.mesquita.376 
-[@SignerProdues](https://twitter.com/SignerProdues)  
+https://twitter.com/SignerProdues
 
 ##License torque
 Copyright 2012 Patrick Williams, BitTorrent Inc.
